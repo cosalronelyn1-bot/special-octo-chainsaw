@@ -5,5 +5,5 @@ curl_cffi==0.7.0
 numpy==2.1.2
 colorama==0.4.6
 colr==0.9.0
-execjs==1.1.0
+PyExecJS==1.1.0
 javascript==1.0.0
