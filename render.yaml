@@ -1,0 +1,10 @@
+services:
+  - type: web
+    name: funcaptcha-solver
+    env: docker
+    plan: free
+    autoDeploy: true
+    dockerfilePath: ./Dockerfile
+    envVars:
+      - key: PORT
+        value: 8003
