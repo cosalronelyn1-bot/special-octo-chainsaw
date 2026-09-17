@@ -1,0 +1,7 @@
+{
+  "name": "funcaptcha-solver",
+  "private": true,
+  "dependencies": {
+    "jsdom": "22.1.0"
+  }
+}
